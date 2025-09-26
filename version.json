@@ -1,5 +1,6 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "url": "https://github.com/eapsistem-create/actualizador-sistema/releases/download/1.2.1/update-1.2.1.zip",
   "changelog": "- Nueva funcionalidad para gestionar categorías de gastos.\n- Corrección de errores visuales en el historial de ventas.\n- Mejoras de rendimiento en el Dashboard."
 }
+
