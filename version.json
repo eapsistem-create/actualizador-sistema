@@ -1,6 +1,7 @@
 {
-  "version": "2.1",
-  "url": "https://github.com/eapsistem-create/actualizador-sistema/releases/download/2.1/update-2.1.zip",
+  "version": "2.0",
+  "url": "https://github.com/eapsistem-create/actualizador-sistema/releases/download/2.0/update-2.0.zip",
   "changelog": "- Potenciado el Módulo de Crédito: Ahora se pueden registrar pagos parciales y la deuda queda anclada al Dólar del día de la venta.\\n- Nueva funcionalidad para gestionar categorías de gastos.\\n- Corrección de errores visuales en el historial de ventas.\\n- Mejoras de rendimiento en el Dashboard."
 }
+
 
