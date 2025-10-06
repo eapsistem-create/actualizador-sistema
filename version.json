@@ -1,5 +1,5 @@
 {
   "version": "2.0.2",
   "url": "https://github.com/eapsistem-create/actualizador-sistema/releases/download/2.0.2/uptade-2.0.2.zip",
-  "changelog": "- Correccion de porcentaje anclado
+ "changelog": " - Corrección de errores en reportes.\n - Nueva función de categorías de gastos.\n - Mejoras de rendimiento."
 }
