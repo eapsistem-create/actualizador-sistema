@@ -1,5 +1,6 @@
 {
-  "version": "2.0.2",
-  "url": "https://github.com/eapsistem-create/actualizador-sistema/releases/download/2.0.2/uptade-2.0.2.zip",
+  "version": "2.0.3",
+  "url": "https://github.com/eapsistem-create/actualizador-sistema/releases/download/2.0.3/update-2.0.2.zip",
  "changelog": " - Corrección de errores en reportes.\n - Nueva función de categorías de gastos.\n - Mejoras de rendimiento."
 }
+
