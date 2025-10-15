@@ -1,6 +1,5 @@
 {
-  "version": "2.0.3",
-  "url": "https://github.com/eapsistem-create/actualizador-sistema/releases/download/2.0.3/update-2.0.2.zip",
- "changelog": " - Corrección de errores en reportes.\n - Nueva función de categorías de gastos.\n - Mejoras de rendimiento."
+  "version": "2.0.4",
+  "url": "https://github.com/eapsistem-create/actualizador-sistema/releases/download/2.0.4/update-2.0.4.zip",
+  "changelog": " - Corrección de errores en reportes.\n - Nueva función de categorías de gastos.\n - Mejoras de rendimiento.\n - ¡Mayor Precisión! El sistema ahora opera con 3 decimales en todos los módulos (Ventas, Compras, Reportes).\n - ¡Nueva Edición de Compras! Se puede ver el detalle y editar compras pasadas, ajustando automáticamente el inventario y precios.\n - Cierre de Caja Profesional: El cierre de caja ahora permite verificar cada transacción de forma individual.\n - Nuevo Módulo de Compras: El menú se ha reorganizado para un acceso más rápido y lógico a la gestión de compras.\n - Mejoras Visuales: Se ha añadido un efecto 3D a la barra lateral del menú.\n - Corrección de Seguridad: Se ha restaurado la restricción que impide a los cajeros ver el historial de ventas de otros usuarios.\n - Correcciones en Importación de Compras desde Excel."
 }
-
